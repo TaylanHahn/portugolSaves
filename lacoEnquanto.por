@@ -9,7 +9,7 @@ programa
 		inteiro contador
 		contador = 0
 
-		enquanto(contador < 3){
+		enquanto(contador < 40){
 			escreva("\n-----------------------------\n")
 			escreva("Digite o mome do aluno: \n")
 			leia(nome)
