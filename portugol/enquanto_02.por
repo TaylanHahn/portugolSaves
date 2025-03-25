@@ -2,8 +2,9 @@ programa
 {
     funcao inicio()
     {
-        inteiro idade, i, soma = 0
+        inteiro idade, i, soma
         real media
+        soma = 0
 
         // Loop para ler a idade dos 11 jogadores
         para (i = 1; i <= 11; i++)
