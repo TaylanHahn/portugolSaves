@@ -1,3 +1,7 @@
+// 7) Escrever um programa que lê um par de valores m,n, todos inteiros e positivos e,
+// calcule e escreva a soma dos n inteiros consecutivos a partir de m, inclusive.
+// Exemplo: (soma dos 3 inteiros consecutivos a partir de 5 inclusive) 5+6+7= 18
+
 
 programa
 {
